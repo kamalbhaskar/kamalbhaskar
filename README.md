@@ -11,10 +11,6 @@ Over 10 years of experience in providing consultation for Cloud Products (IAAS, 
 Complete understanding of the NFVi Cloud & Virtualization Concepts.
 Proficient in the concepts of Openstack Cloud, Openshift, Kubernetes, Containerization, Unix/Linux, shell/python Scripting & Databases.
 
-**MCA** from **GGSIP University, Delhi**
-
-**B.Sc.(Comp. Sc.)** from **University of Delhi**.
-
 ---
 
 ### Software Proficiency
