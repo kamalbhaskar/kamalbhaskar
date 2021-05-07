@@ -1,6 +1,6 @@
 ## Kamal Deep Bhaskar
 
-**Cloud Architect**
+**Cloud Architect/Consultant**
 -- Delhi/NCR, India.
 
 
