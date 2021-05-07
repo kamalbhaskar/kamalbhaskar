@@ -49,7 +49,7 @@ As a seasoned professional, works with a customer's extended operations team tha
 - Upgrading Openstack, Openshift and Ceph Clusters
 - Sharing and implementing best practices
 - Early beta access and relevant testing
-- Providing enablement sessions on different Red Hat products
+- Providing enablement sessions
 - Critical Situation handling
 ```
 #### Skills:
